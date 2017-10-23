@@ -1,0 +1,1 @@
+Salesforce JSON REST API bindings for Go. Docs coming soon.
